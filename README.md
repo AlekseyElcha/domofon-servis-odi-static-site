@@ -1,7 +1,1 @@
-Сайт для личных целей.
-
-(он рабочий)
-
-Используются Yandex Metrics and Google Tag Manager.
-
-Я не фронтендер, прошу не судить строго:)
+сайт https://domofon-servis-odi.ru
